@@ -1,0 +1,9 @@
+#fieldsetIdentity,#legendIdentity {
+    background-color : #2574A9;
+}
+#fieldsetLocalisation,#legendLocalisation {
+    background-color: #9A12B3;
+}
+#fieldsetPayment, #legendPayment {
+    background-color: #DB0A5B;
+}
